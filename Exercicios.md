@@ -186,7 +186,7 @@ Defina uma classe `Funcionario` com atributos `nome`, `cargo` e `salario`. Crie 
 `Gerente` para incluir o departamento. Crie objetos de ambas as classes.
 
 ### Exercício 49
-Crie uma classe `Animal` com um método `hacerSonido()`. Crie duas subclasses, `Cachorro` e `Gato`, que herdem de 
+Crie uma classe `Animal` com um método `fazerSom()`. Crie duas subclasses, `Cachorro` e `Gato`, que herdem de 
 `Animal` e sobrescrevam o método `fazerSom()` para imprimir "Guau" e "Miau" respectivamente. Crie objetos `Cachorro` 
 e `Gato` e chame seu método `fazerSom()`.
 
